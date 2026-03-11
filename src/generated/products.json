@@ -1420,66 +1420,59 @@
     },
     {
       "category": "OUTERWEAR",
-      "name": "MADNIGHT Coach Jacket (Black)",
+      "name": "ZOMBIE MAD Jacket",
       "variants": [
         {
           "originalItemName": "ZOMBIE MAD Jacket",
           "option": "Black",
           "size": "M/L/XL",
           "csvPriceKrw": 457000,
-          "productId": "ZMY661",
-          "url": "https://zutomayomart.net/v2/product/detail/ZMY661",
-          "title": "MADNIGHT Coach Jacket (Black)",
-          "titleKo": "MADNIGHT Coach Jacket (Black)",
+          "productId": "ZMY667",
+          "url": "https://zutomayomart.net/v2/product/detail/ZMY667",
+          "title": "ZOMBIE MAD Jacket",
+          "titleKo": "ZOMBIE MAD Jacket",
           "collection": "ZUTOMAYO INTENSE II「坐・ZOMBIE CRAB LABO」",
           "collectionKo": "ZUTOMAYO INTENSE II 「좌・ZOMBIE CRAB LABO」",
-          "priceJpy": "13200",
+          "priceJpy": "38000",
           "images": [
-            "https://assets.official-goods-store.jp/product/ZMY661/40b20f35f405d2726f94c4773f453cde257818a57b36b58044e693752051f70b.jpg",
-            "https://assets.official-goods-store.jp/product/ZMY661/b042aa924b2e021f00cdef1dd6113cc2f4ce4a6b31c01e09db9a91c396a4112e.jpg",
-            "https://assets.official-goods-store.jp/product/ZMY661/684c4605286b6507ac3e8c3abe1a5a858c37ddf6c3b9227089f89c7fb90c3409.jpg",
-            "https://assets.official-goods-store.jp/product/ZMY661/0faa887f72850507645395c633a82341dc938e5da64dc82ae1eaeebbfc521543.jpg",
-            "https://assets.official-goods-store.jp/product/ZMY661/71fe07c7b0f6c61dd7781d6c39423ef9ea934a1c094518096cd4aa36c865790f.jpg",
-            "https://assets.official-goods-store.jp/product/ZMY661/f5ed75f302e3e382bddc7a648e3ba8ed37e83b78a039438f69aa916955321d6f.jpg"
+            "https://assets.official-goods-store.jp/product/ZMY667/b1b6cc9b0cf42c30ae33818a580e6f90700c691e3909635df51d2aa478eaf624.jpg",
+            "https://assets.official-goods-store.jp/product/ZMY667/cbf5269d258f9329a4c8d7f0b8950d22302a5db797b0b33149cbaac7f7e68956.jpg",
+            "https://assets.official-goods-store.jp/product/ZMY667/68a8197bdd82d7e0252b06237d35289b24a3c7350d106cbad16136a07e96b724.jpg",
+            "https://assets.official-goods-store.jp/product/ZMY667/a80e5e601b34a094ac0d4739c8cad5ee4d5eab2a5a6eb6e0ba43d09187f3c681.jpg",
+            "https://assets.official-goods-store.jp/product/ZMY667/c97d4af40ac8a17ba297473945b8c8818c8f962d08d66ac9c5b89d7ab7be094c.jpg",
+            "https://assets.official-goods-store.jp/product/ZMY667/6df251b4dc84c78c69ac56b67dfebd2715a4065fa76dd7ddab470448e855d737.jpg"
           ],
           "summary": [
-            "MADNIGHT FOREVER...",
-            "기억이 있는 그래픽 등이 MAD 콜라주 되었다",
-            "부드럽고 고급스러운 광택감이 있는 감촉의 NEW WAVE인 코치 재킷",
-            "천 태그가 달린 디자인"
+            "ZUTOMAYO PREMIUM限定",
+            "본 투어는 기품 넘치는 좀비의 발생을 바랍니다. premium exclusive。",
+            "드롭 숄더와 전반적인 데미지 가공이 들어간 거친 재킷",
+            "칼라에 ZUTOMAD LABO Chain Brooch 동봉"
           ],
           "sizeLines": [
-            "M：옷길이 72 cm×품 64 cm×옷길이 88 cm",
-            "L：옷길이 74 cm×품 66 cm×옷길이 90 cm",
-            "XL:옷길이 76 cm × 품 68 cm × 옷장 92 cm"
+            "M：着丈 73cm × 身幅 56cm × 肩幅 48cm × 袖丈 57cm",
+            "L：着丈 78cm × 身幅 60cm × 肩幅 51cm × 袖丈 60cm",
+            "XL：着丈 83cm × 身幅 64cm × 肩幅 54cm × 袖丈 63cm",
+            "ブローチ：H 280mm × W 20mm"
           ],
-          "modelLines": [],
+          "modelLines": [
+            "龍羅 180cm：XL",
+            "INGA 172cm：L"
+          ],
           "materialLines": [
-            "표지：폴리에스텔 100%",
-            "안감：폴리에스텔 100%"
+            "表地：ポリエステル70%、レーヨン28%、ポリウレタン2%",
+            "裏地：ポリエステル80%、綿20%",
+            "ブローチ：亜鉛合金、鉄"
           ],
           "country": "중국",
           "match": {
-            "source": "auto",
-            "confidence": 0.4813,
-            "reason": "match-review.csv의 Matched URL을 기준으로 상세를 스크래핑했습니다.",
+            "source": "manual",
+            "confidence": 0.99,
+            "reason": "태그 페이지 기준으로 ZMY667로 수동 고정했습니다.",
             "candidates": [
               {
-                "id": "ZMY665",
-                "title": "TAROT Nylon Jacket (Ivory Black)",
-                "url": "https://zutomayomart.net/v2/product/detail/ZMY665",
-                "score": 0
-              },
-              {
-                "id": "ZMY661",
-                "title": "MADNIGHT Coach Jacket (Black)",
-                "url": "https://zutomayomart.net/v2/product/detail/ZMY661",
-                "score": 0
-              },
-              {
-                "id": "ZMY655",
-                "title": "MADNIGHT Sweatshirt (Vintage Black)",
-                "url": "https://zutomayomart.net/v2/product/detail/ZMY655",
+                "id": "ZMY667",
+                "title": "ZOMBIE MAD Jacket",
+                "url": "https://zutomayomart.net/v2/product/detail/ZMY667",
                 "score": 0
               }
             ]
@@ -3467,23 +3460,20 @@
           "option": "Navy Gradient",
           "size": "M/L/XL",
           "csvPriceKrw": 220000,
-          "productId": "ZMY665",
-          "url": "https://zutomayomart.net/v2/product/detail/ZMY665",
-          "title": "TAROT Nylon Jacket (Ivory Black)",
-          "titleKo": "TAROT Nylon Jacket (Ivory Black)",
+          "productId": "ZMY664",
+          "url": "https://zutomayomart.net/v2/product/detail/ZMY664",
+          "title": "TAROT Nylon Jacket (Gray Gradation)",
+          "titleKo": "TAROT Nylon Jacket (Gray Gradation)",
           "collection": "ZUTOMAYO INTENSE II「坐・ZOMBIE CRAB LABO」",
           "collectionKo": "ZUTOMAYO INTENSE II 「좌・ZOMBIE CRAB LABO」",
           "priceJpy": "18400",
           "images": [
-            "https://assets.official-goods-store.jp/product/ZMY665/ea85f008e36ad6c9f3c0221b46b830982a367395684f1393485e3812fb26786e.jpg",
-            "https://assets.official-goods-store.jp/product/ZMY665/2284231805eab3f980cfe8b0e06f6d0957027061c6450a87e157d8abd9780cf3.jpg",
-            "https://assets.official-goods-store.jp/product/ZMY665/ec02e7487a60406bb3baefa6774656504338406091f011e7a9001f32619eee83.jpg",
-            "https://assets.official-goods-store.jp/product/ZMY665/c277f3758c3de0c3ec177c199a8ef76ca340f634f051ee0f5e5cd91337bfde6d.jpg",
-            "https://assets.official-goods-store.jp/product/ZMY665/df0e69398ede1d0ea42ce0d10c60e4d556dd76698be03bffe4c7bae4eefcd297.jpg",
-            "https://assets.official-goods-store.jp/product/ZMY665/3bc0591a6a7ed679f6336e219f1c73f9ea9fe43fb30702e3046240f1004fc072.jpg",
-            "https://assets.official-goods-store.jp/product/ZMY665/24f0ce9b3968474d20df915a1b01049d3526ae143fa738945623bd3a840a5278.jpg",
-            "https://assets.official-goods-store.jp/product/ZMY665/0ffb78bafa4277ba7d81be5d52a6cf21e3f792e701248d2a1b8d5e450044c79f.jpg",
-            "https://assets.official-goods-store.jp/product/ZMY665/4fccfc656130c53e3fd6970529f1219f1336b44a514cee8043b8139551c57dc0.jpg"
+            "https://assets.official-goods-store.jp/product/ZMY664/22f62c3ef93ff183a33469f073d9879016b47dc1e23f33723fc6a57d4f5ad049.jpg",
+            "https://assets.official-goods-store.jp/product/ZMY664/c225562223b12d40c7fbea18fe5068bf0d4a111df6bd3b1a1847222cdb06137f.jpg",
+            "https://assets.official-goods-store.jp/product/ZMY664/b37cdf24888ba6879b591de58d77f46a2dbfd4e3242e6cc4585f3a3e36a8194a.jpg",
+            "https://assets.official-goods-store.jp/product/ZMY664/d9592552c951ae0ac637aae5ab274d364921967d2f20f3fd9159ad5e3cf5bf15.jpg",
+            "https://assets.official-goods-store.jp/product/ZMY664/0d6b88b9d3731960b6776a4a5f629e66ef809ef77296002c9ec08a9f3d714e04.jpg",
+            "https://assets.official-goods-store.jp/product/ZMY664/2c1fa6910e91eb49d00619e06f77cc86acd44bad919ceb7b35dc31348787b9be.jpg"
           ],
           "summary": [
             "MidNight of the Living Dead..",
@@ -3505,20 +3495,20 @@
           ],
           "country": "중국",
           "match": {
-            "source": "auto",
-            "confidence": 0.3375,
-            "reason": "match-review.csv의 Matched URL을 기준으로 상세를 스크래핑했습니다.",
+            "source": "manual",
+            "confidence": 0.99,
+            "reason": "태그 페이지 기준으로 ZMY664로 수동 고정했습니다.",
             "candidates": [
-              {
-                "id": "ZMY665",
-                "title": "TAROT Nylon Jacket (Ivory Black)",
-                "url": "https://zutomayomart.net/v2/product/detail/ZMY665",
-                "score": 0
-              },
               {
                 "id": "ZMY664",
                 "title": "TAROT Nylon Jacket (Gray Gradation)",
                 "url": "https://zutomayomart.net/v2/product/detail/ZMY664",
+                "score": 0
+              },
+              {
+                "id": "ZMY665",
+                "title": "TAROT Nylon Jacket (Ivory Black)",
+                "url": "https://zutomayomart.net/v2/product/detail/ZMY665",
                 "score": 0
               },
               {
@@ -5093,65 +5083,61 @@
           "option": "Gray",
           "size": "M/L/XL",
           "csvPriceKrw": 106000,
-          "productId": "ZMY670",
-          "url": "https://zutomayomart.net/v2/product/detail/ZMY670",
-          "title": "Docking Sweat Pants (Gray)",
-          "titleKo": "Docking Sweat Pants (Gray)",
+          "productId": "ZMY672",
+          "url": "https://zutomayomart.net/v2/product/detail/ZMY672",
+          "title": "ZUTOMAD  Half Sweat Pants (Ivory)",
+          "titleKo": "ZUTOMAD  Half Sweat Pants (Ivory)",
           "collection": "ZUTOMAYO INTENSE II「坐・ZOMBIE CRAB LABO」",
           "collectionKo": "ZUTOMAYO INTENSE II 「좌・ZOMBIE CRAB LABO」",
-          "priceJpy": "12500",
+          "priceJpy": "8800",
           "images": [
-            "https://assets.official-goods-store.jp/product/ZMY670/6bb214a031c63eedbceb1bdc323b4d0ec5686f2ba8b4842dac5b0245bdad0974.jpg",
-            "https://assets.official-goods-store.jp/product/ZMY670/463458f3ce65b17a21bb733969edd641b64640ce9901baa860b6b47896ba4344.jpg",
-            "https://assets.official-goods-store.jp/product/ZMY670/ace37f31e9a1b2882217dc72e321bc65df87e4f307c178db64fa09da2f39d7c6.jpg",
-            "https://assets.official-goods-store.jp/product/ZMY670/fb2bbf8f1fb00fd1422b1bfcb03fb9ccc59108b014a06e233e52928df224fd37.jpg",
-            "https://assets.official-goods-store.jp/product/ZMY670/e98216e7126350f78bb7502cba123d6881afb664dae937b7f7239b08a82b375e.jpg",
-            "https://assets.official-goods-store.jp/product/ZMY670/7b16c8126440ed4a061222b5c8af91c974e0d872f69c1ff06460280bc9c1a0bc.jpg",
-            "https://assets.official-goods-store.jp/product/ZMY670/31c8037c4e8460cbdb2910d33dfdbd2bbc6075eb47ed0effb3f488b3ef868d01.jpg",
-            "https://assets.official-goods-store.jp/product/ZMY670/cff8add17f846f4b231e750d5f3bc6399d9e548e5025acf53387e92b68db3fe0.jpg",
-            "https://assets.official-goods-store.jp/product/ZMY670/80752635ac40dd2baa5eba5418243317045298fdb018d1d8d8abc587e3c7bdf7.jpg",
-            "https://assets.official-goods-store.jp/product/ZMY670/d0f2d6acaee251171af64b20a163afa745019759a86f442dca94eea2609ce1c2.jpg",
-            "https://assets.official-goods-store.jp/product/ZMY670/9814f95b3268a4a423bfeccaa3d3458bcd7ce33ce22529cf2c968a822c94dbc7.jpg"
+            "https://assets.official-goods-store.jp/product/ZMY672/7b21d9d27dcece2eff66e13c0c658c9eb28de0b7424911d6b3db0e89b0630f2b.jpg",
+            "https://assets.official-goods-store.jp/product/ZMY672/7f3a29f5708feed61cfa496c7fbb67d8ba6e8d1d5add71a76711d7f88ee47d6b.jpg",
+            "https://assets.official-goods-store.jp/product/ZMY672/1d76bc52dae385b1b2409fe080439628f7a990ba66966b62b4f82f5659f03ea2.jpg",
+            "https://assets.official-goods-store.jp/product/ZMY672/9a4a61d789fe4d36408c93b8f08e1b758e2b13cc952aa7caa2dc4e42a8eca835.jpg",
+            "https://assets.official-goods-store.jp/product/ZMY672/58d1bb00394cb8e601988d0565f32855f5eed113bd38b11ea1ed3f70a0093c02.jpg",
+            "https://assets.official-goods-store.jp/product/ZMY672/5143bdd748a15f11ac3d3931f745b0bbec21979a779bf0e3e09aff26319572be.jpg"
           ],
           "summary": [
-            "레이어드로 셔츠의 옷자락이 보이는 것 같은 실루엣의 도킹 스웨트 팬츠.같은 색으로 세세한 그래픽이나 크게 늘어난 장식 끈, 옷자락에는 드로우 코드 첨부.허리는 고무 사양, 사이즈 조정 가능",
-            "너무 두껍지 않고, 깔끔하게 거칠게 입을 정도로 와이드 한 실루엣 남녀 겸용"
+            "당 ZOMBIE CRAB LABO 연구원에게는 쿨 비즈를 채용하고 있습니다.",
+            "\"ZUTOMAD\"와 수식을 자수와 백 포켓 ZT 스티치가 특징적인 하프 팬츠.",
+            "러프에 착용할 수 있는 적당한 와이드 실루엣.",
+            "허리는 고무 사양, 사이즈 조정 가능"
           ],
           "sizeLines": [
-            "M：총길이 102 cm×웨스트 62 cm~77.5 cm×힙 108 cm",
-            "L：총길이 106 cm×웨스트 75 cm~93 cm×힙 114 cm",
-            "XL：총길이 110 cm×웨스트 80 cm~100 cm×힙 120 cm"
+            "M：총길이 61 cm×웨스트 62 cm~116 cm×힙 116 cm",
+            "L：총길이 63 cm×웨스트 66 cm~130 cm×힙 128 cm",
+            "XL：총길이 65 cm×웨스트 70 cm~134 cm×힙 132 cm"
           ],
           "modelLines": [
-            "Model：INGA 172cm",
-            "Size：L"
+            "Model: 용라 180cm",
+            "Size：XL"
           ],
           "materialLines": [
-            "길：면 100%",
-            "별포：나일론 100%"
+            "면100%"
           ],
           "country": "중국",
           "match": {
-            "source": "auto",
-            "confidence": 0.5187,
-            "reason": "match-review.csv의 Matched URL을 기준으로 상세를 스크래핑했습니다.",
+            "source": "manual",
+            "confidence": 0.99,
+            "reason": "태그 페이지 기준으로 ZMY672로 수동 고정했습니다.",
             "candidates": [
+              {
+                "id": "ZMY672",
+                "title": "ZUTOMAD  Half Sweat Pants (Ivory)",
+                "url": "https://zutomayomart.net/v2/product/detail/ZMY672",
+                "score": 0
+              },
+              {
+                "id": "ZMY671",
+                "title": "ZUTOMAD Half Sweat Pants (Vintage Black)",
+                "url": "https://zutomayomart.net/v2/product/detail/ZMY671",
+                "score": 0
+              },
               {
                 "id": "ZMY670",
                 "title": "Docking Sweat Pants (Gray)",
                 "url": "https://zutomayomart.net/v2/product/detail/ZMY670",
-                "score": 0
-              },
-              {
-                "id": "ZMY254",
-                "title": "Half Zip Sweat (Gray)",
-                "url": "https://zutomayomart.net/v2/product/detail/ZMY254",
-                "score": 0
-              },
-              {
-                "id": "ZMY106",
-                "title": "ZUTOMAYO MokoMoko Sweat A (Sky Gray)",
-                "url": "https://zutomayomart.net/v2/product/detail/ZMY106",
                 "score": 0
               }
             ]
