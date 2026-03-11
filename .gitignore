@@ -1,0 +1,18 @@
+node_modules/
+dist/
+.claude/
+pw_analyze.mjs
+server*.log
+*.log
+server.*.log
+*.csv
+scripts/
+IMPROVEMENT_SPEC.md
+*.webp
+!public/**/*.webp
+!dist/**/*.webp
+towel.webp
+seoul white.webp
+seoul black.webp
+073f5eae-62c3-45cb-9b4c-440dc1d17b1a_1773192052354.webp
+64236361-8bbc-403d-bc68-40f5af583b60_1773192052143.webp
